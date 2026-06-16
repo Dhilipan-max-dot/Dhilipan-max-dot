@@ -1,6 +1,6 @@
 # Hi, I'm Dhilipan Shelly M 👋
 
-### Data Analyst & Business Analyst | MBA in AI & Data Science
+### Data & Business Analyst | MBA in AI & Data Science
 #### Chennai, India · Open to opportunities
 
 ---
@@ -86,8 +86,8 @@ Market demand analysis across 5,000 B2B survey respondents — SQL, KMeans clust
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhilipan-shelly-94799b231)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dhilipanshelly@gmail.com)
 
 ---
 *Open to Data Analyst and Business Analyst roles — Chennai, Remote, or Hybrid*
