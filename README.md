@@ -37,17 +37,32 @@ full-time roles in data and business analysis.
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-orange?style=flat&logo=amazonaws)
 
 ---
-
 ## 📂 Featured Projects
 
 ### 🔴 [IT SLA Breach Prediction System](https://github.com/Dhilipan-max-dot/it-sla-breach-predictor)
-End-to-end IT operations analytics system built for a realistic business problem.
-- Analysed **2,330 support tickets** using SQL — found Medium priority tickets
-  breach SLA more than High priority (36.5% vs 30.3%)
+End-to-end IT operations analytics system — SQL, ML risk scoring, Power BI dashboard with RLS, automated email alerts.
+- Analysed **2,330 support tickets** — found Medium priority breaches more than High (36.5% vs 30.3%)
 - Built **logistic regression model** predicting SLA breach probability per ticket
-- Delivered **3-page Power BI dashboard** with Row-Level Security (RLS)
 - Automated **daily email alerts** flagging 1,213 high-risk tickets to managers
 `SQL` `Python` `scikit-learn` `Power BI` `RLS` `smtplib`
+
+---
+
+### 📊 [SaaS Product Funnel & Cohort Retention Analysis](https://github.com/Dhilipan-max-dot/saas-funnel-cohort-analysis)
+Full funnel analysis across 2,500 SaaS users — SQL queries, cohort heatmap, retention curves.
+- Identified Free Trial converts at only **20.7% vs 90.6% for Enterprise**
+- Built cohort retention heatmap showing converted users retain at **15x the rate** of churned users
+- Mapped Technology sector as highest revenue driver at **$43,827**
+`SQL` `Python` `SQLite` `Matplotlib` `Cohort Analysis`
+
+---
+
+### 🌱 [Sustainable Packaging Market Demand Analysis](https://github.com/Dhilipan-max-dot/sustainable-packaging-market-analysis)
+Market demand analysis across 5,000 B2B survey respondents — SQL, KMeans clustering, regional revenue mapping.
+- Found cost is **#1 barrier in all 5 regions** (35% of responses)
+- Identified FMCG as highest intent segment at **64% likely buyers**
+- Mapped South India as highest revenue opportunity at **₹24.9 Crore**
+`SQL` `Python` `KMeans` `scikit-learn` `Matplotlib`
 
 ---
 
@@ -62,7 +77,7 @@ End-to-end IT operations analytics system built for a realistic business problem
 
 ## 📈 Experience Highlight
 
-**Data Analyst Intern — Nithya Packaging Pvt. Ltd** *(Jun–Aug 2025)*
+**Data and Marketing Analyst Intern — Nithya Packaging Pvt. Ltd** *(Jun–Aug 2025)*
 - Built Power BI dashboard tracking 8 KPIs → saved ~12 hours/week of manual reporting
 - Automated 6 recurring Excel reports using Python → saved ~4 hours/week
 - Cleaned 4,800+ records across 5 data sources → reduced errors by 30%
